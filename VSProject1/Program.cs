@@ -8,6 +8,7 @@ namespace VSProject1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Working with Github");
+            Console.WriteLine("Here is some new code");
         }
     }
 }
